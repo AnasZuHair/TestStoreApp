@@ -1,4 +1,4 @@
-# store_app
+# StoreApp
 
 A new Flutter project.
 ![screenshot-1638456187781](https://user-images.githubusercontent.com/93432216/147138210-24f3b9b9-6433-4305-96c2-3691ebe7f4c3.png)
